@@ -17,3 +17,6 @@ Repositories:
 - https://github.com/flexdash/node-red-flexdash - the Node-RED integration, runs in node.js (Node-RED process)
 - https://github.com/flexdash/node-red-fd-corewidgets - Node-RED nodes for the core FlexDash widgets
 - https://github.com/flexdash/docs - FlexDash documentation source
+
+Discussions:
+- [Node-RED discourse](https://discourse.nodered.org/c/creating-nodes/15)
